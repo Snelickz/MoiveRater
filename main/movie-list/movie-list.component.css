@@ -1,0 +1,21 @@
+.movie-item {
+    display: grid;
+    grid-template-columns:1fr auto auto;
+}
+
+.movie-item fa {
+    font-size: 1.5em;
+    margin: 15px 5px;
+    cursor: pointer;
+}
+
+fa[name='trash'], fa[name='edit'] {
+    color: black;
+}
+
+h3 {
+    font-size: 1.25em;
+    margin: 15px 5px;
+    cursor: pointer;
+    color: black;
+}

@@ -1,0 +1,25 @@
+fa.orange {
+    color: orange;
+}
+
+#rate-container {
+    border-top: 3px solid orange
+}
+
+#rate-container fa{
+    cursor: pointer;
+    font-size: 2em;
+}
+
+h1, h2 {
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 1.2em;
+}
+
+.bigstar {
+    font-size: 1.5em;
+}
